@@ -13,4 +13,3 @@ divid = apple_value//student_number
 remain = apple_value%student_number
 print("each student=",divid)
 print("remain=",remain)
-#Command Test
