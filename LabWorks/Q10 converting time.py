@@ -18,3 +18,4 @@ print(f"Total minutes for given seconds:{minutes}")
 print(f"Total remaining second:{remain_second}")
 
 
+update
